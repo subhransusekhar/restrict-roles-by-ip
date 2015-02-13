@@ -1,5 +1,3 @@
-# Restrict Roles by IP
-
 === Restrict Roles by IP ===
 Author: Subhransu Sekhar
 Author URI: http://github.com/subhransusekhar
